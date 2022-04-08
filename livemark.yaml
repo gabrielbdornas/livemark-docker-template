@@ -8,11 +8,11 @@ github:
 topics:
   selector: h2
 site:
-  favicon: assets/favicon.ico
+  favicon: assets/images/favicon.ico
   styles:
-    - style.css
+    - assets/stylesheets/style.css
   scripts:
-    - script.js
+    - assets/javascript/script.js
 pages:
   items:
     - path: index
